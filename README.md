@@ -1,6 +1,6 @@
 <!-- ===================== PROFILE HEADER ===================== -->
-<h1 align="center">Hi 👋, I'm Srikant Rajput</h1>
-<h3 align="center">🐍 Python Developer | 🌐 Full-Stack Explorer | 🤖 AI & Data Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm SHrikant</h1>
+<h3 align="center">🐍 Python Developer  | 🤖 AI & Data Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Python+%7C+Django+%7C+SQL;NumPy+%7C+Pandas+%7C+Data+Visualization;Exploring+AI+%2F+LLMs+%2F+RAG;Always+Learning+%26+Building" />
@@ -59,12 +59,31 @@
 
 ---
 
-## 📊 GitHub Stats (Fresh & Stable)
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=srikant-rajput&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://streak-stats.demolab.com?user=srikant-rajput&theme=tokyonight&hide_border=true" />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
+  <img
+    height="170"
+    src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
+
+## 📈 Top Languages
+
+<p align="center">
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
+
 
 ---
 
