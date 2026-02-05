@@ -1,5 +1,5 @@
 <!-- ===================== PROFILE HEADER ===================== -->
-<h1 align="center">Hi 👋, I'm SHrikant</h1>
+<h1 align="center">Hi 👋, I'm Shrikant</h1>
 <h3 align="center">🐍 Python Developer  | 🤖 AI & Data Enthusiast</h3>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ## 👀 Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=srikant-rajput&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Shrikant478&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
 
 ---
@@ -64,12 +64,12 @@
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=Shrikant478&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub Stats"
   />
   <img
     height="170"
-    src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=Shrikant478&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
@@ -79,7 +79,7 @@
 <p align="center">
   <img
     height="160"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrikant478&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Languages"
   />
 </p>
@@ -90,7 +90,7 @@
 ## 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikant-rajput&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrikant478&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
